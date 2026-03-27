@@ -8,7 +8,7 @@ Atualmente focado em migrar do setor industrial para o mundo da tecnologia, unin
 ### 🛠️ O que estou estudando/praticando:
 * **Linguagens:** Python (automação e lógica) e C (estruturas de dados).
 * **Cloud:** Explorando os fundamentos de **Oracle Cloud Infrastructure (OCI)**.
-* **QA & Troubleshooting:** Aplico minha experiência de 5+ anos em inspeção técnica e análise de causa raiz para garantir a qualidade do código].
+* **QA & Troubleshooting:** Aplico minha experiência de 5+ anos em inspeção técnica e análise de causa raiz para garantir a qualidade do código.
 
 ---
 
