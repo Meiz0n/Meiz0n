@@ -13,7 +13,7 @@ Atualmente focado em migrar do setor industrial para o mundo da tecnologia, unin
 ---
 
 ### 💼 Trajetória Profissional:
-Vim de uma base sólida no setor automotivo, com passagens por empresas como **Valeo** e **Nidec GPM**. Essa vivência me deu uma visão sistêmica e facilidade em diagnosticar problemas complexos, habilidades que agora levo para o Dev].
+Vim de uma base sólida no setor automotivo, com passagens por empresas como **Valeo** e **Nidec GPM**. Essa vivência me deu uma visão sistêmica e facilidade em diagnosticar problemas complexos, habilidades que agora levo para o Dev.
 
 ---
 
